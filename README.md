@@ -29,9 +29,7 @@ In this workshop we will introduce you to the Github ecosystem and help you get 
 **3. Working Locally:** Add a repository from your own computer and keep it synced with the version online at GitHub.
 
 # Dates -
-we will deciding Soon !
+19 May 2019
 # Venue - 
-`ICT Lab, CCT`
+`DBT-BIF LAB, CCT`
 
-# Note - 
-We are making request from Director to provide a `certificate` for this workshop.
